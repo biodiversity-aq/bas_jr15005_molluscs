@@ -1,7 +1,7 @@
-# antarctic\_subantarctic\_asteroidea\_isotopes
+# bas\_jr15005\_molluscs 
 
 
-This repository contains short code to transform raw data of dataset `Stable isotope ratios of C, N and S in Southern Ocean sea stars (1985-2017)`
+This repository contains short code to transform raw data of dataset `Mollusca collected by AGT trawl from the 2016 SO-AntEco Expedition to the South Orkney Islands, Antarctica - Data`
 
 
 ## Dataset decription
