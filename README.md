@@ -1,7 +1,7 @@
 # bas\_jr15005\_molluscs 
 
 
-This repository contains short code to transform raw data of dataset `Mollusca collected by AGT trawl from the 2016 SO-AntEco Expedition to the South Orkney Islands, Antarctica - Data`
+This repository contains short code to transform raw data of dataset `Mollusca collected by AGT trawl from the 2016 SO-AntEco Expedition to the South Orkney Islands, Antarctica - Data`. The resource is available at: https://ipt.biodiversity.aq/resource?r=bas_jr15005_molluscs
 
 
 ## Dataset decription
