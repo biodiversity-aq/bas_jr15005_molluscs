@@ -18,10 +18,10 @@ OBIS | https://obis.org/dataset/4a840d4b-75c5-40aa-8414-446be8dad50a
 ```
 .
 ├── README.md 			: description of this repository
-├── bas_jr15005_molluscs.Rproj	        : R Project
+├── bas_jr15005_molluscs.Rproj 	: R Project
 ├── data			: directory to store data
 │   └── generated		: directory to store generated data
-├── src			: directory for scripts
+├── src				: directory for scripts
 ├── renv 			: renv files for dependencies
 └── renv.lock			: describe the state of project's library
 ```
